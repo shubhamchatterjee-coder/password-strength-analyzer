@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+password_history.db
+venv/
